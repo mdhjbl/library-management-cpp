@@ -5,8 +5,8 @@ A simple library management system written in C++ with features like adding, sea
 A simple console-based Library Management System built in **C++**.  
 This project manages books, members, borrowing, and returning using basic file handling.
 
-![Screenshot 1](./screenshots/screenshot2.png)  
-![Screenshot 2](./screenshots/screenshot1.png)
+![Screenshot 1](./screenshots/Screenshot2.png)  
+![Screenshot 2](./screenshots/Screenshot1.png)
 
 ## 🚀 Features
 
